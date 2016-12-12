@@ -1,4 +1,4 @@
-// jQuery to collapse the navbar on scroll
+// MENU NAVBAR
 function collapseNavbar() {
     if ($(".navbar").offset().top > 50) {
         $(".navbar-fixed-top").addClass("top-nav-collapse");
@@ -27,8 +27,7 @@ $('.navbar-collapse ul li a').click(function() {
 });
 
 
-
-// SLIDER
+// SLIDER HABILIDADES
 
 ;( function( $, window, undefined ) {
 
